@@ -18,7 +18,5 @@ Skills: Vue / Laravel
 - 📫 How to reach me: nsakib.miraz@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saakiiib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sakib_tt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/users/22200108/saakiiib)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saakiiib)](https://github.com/anuraghazra/github-readme-stats)
 
