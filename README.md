@@ -15,8 +15,6 @@ Skills: Vue / Laravel
 - 🌱 I’m currently learning Flutter 
 - 👯 I’m looking to collaborate on Laravel 
 - 💬 Ask me about Web Developing 
-- 📫 How to reach me: nsakib.miraz@gmail.com 
-
-
-
-
+- 📫 How to reach me: nsakib.miraz@gmail.com
+  
+![](https://komarev.com/ghpvc/?username=your-github-saakiiib)
